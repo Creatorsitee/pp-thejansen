@@ -1,0 +1,6 @@
+{
+  "name": "The Jansen PP Maker",
+  "description": "Generate The Jansen style profile pictures using custom canvas filters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
